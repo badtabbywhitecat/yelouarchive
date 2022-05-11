@@ -1,7 +1,2 @@
-{% if post %}
-    {% assign words = post.content | strip_html | strip_newlines | split: "" | size %}
-{% else %}
-    {% assign words = page.content | strip_html | strip_newlines | split: "" | size %}
-{% endif %}
 {% assign readtime = content | strip_html | strip_newlines | size | divided_by: 350 | round %}
 Reading time ~{% if readtime <= 1 %}1 minute{% else %}{{ readtime }} minutes{% endif %}
