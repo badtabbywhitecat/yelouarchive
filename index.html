@@ -37,7 +37,7 @@ image:
     {% if post.content contains '<!--more-->' %}
       {{ post.content | split:'<!--more-->' | first }}
     {% else %}
-      {{ post.content | truncatewords: 200 }}
+      {{ post.content | truncatewords: 50 }}
     {% endif %}
   </div><!-- /.entry-content -->
 </article><!-- /.hentry -->
