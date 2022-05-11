@@ -17,6 +17,12 @@
 				{% if site.owner.twitter %}<li>
 					<a href="https://twitter.com/{{ site.owner.twitter }}"><i class="fa fa-fw fa-twitter"></i> Twitter</a>
 				</li>{% endif %}
+				{% if site.owner.AO3 %}<li>
+					<a href="https://archiveofourown.org/users/{{ site.owner.twitter }}"><svg id="i-clock" xmlns="https://badtabbywhitecat.github.io/yelouarchive//images/AO3.svg" viewBox="0 0 32 32" width="16" height="16" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+						<circle cx="14" cy="14" r="14" />
+						<path d="M16 8 L16 16 20 20" />
+					</svg> AO3</a>
+				</li>{% endif %}
 				{% if site.owner.facebook %}<li>
 					<a href="https://facebook.com/{{ site.owner.facebook }}"><i class="fa fa-fw fa-facebook"></i> Facebook</a>
 				</li>{% endif %}
