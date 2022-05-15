@@ -13,10 +13,10 @@ $front-page-feature-image-height : 400px; // min 150px recommended
    Typography
    ========================================================================== */
 
-$base-font                       :'Lato', '方正标雅宋简体','宋体',Calibri, Arial, sans-serif;
-$heading-font                    : $base-font;
-$caption-font                    : $base-font;
-$code-font                       : 'LXGW WenKai Screen','LXGWWenKaiScreen','霞鹜文楷 屏幕阅读版',monospace;
+$base-font                       :'LXGW WenKai Screen','LXGWWenKaiScreen','霞鹜文楷 屏幕阅读版','霞鹜文楷','Lato', '方正标雅宋简体','宋体',Calibri, Arial, sans-serif;
+$heading-font                    : 'Lato', '宋体',Calibri, Arial, sans-serif;
+$caption-font                    : 'Lato', '宋体',Calibri, Arial, sans-serif;
+$code-font                       : '英章楷书','LXGW WenKai Screen','LXGWWenKaiScreen','霞鹜文楷 屏幕阅读版',monospace;
 $alt-font                        : serif;
 
 $doc-font-size                   : 16;
