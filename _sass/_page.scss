@@ -63,8 +63,9 @@ body {
 	h1 {
 		margin: 10px 20px;
 		font-weight: 500;
-		@include font-rem(20);
+		font-size: -webkit-xxx-large;
 		color: lighten($base-color,20);
+		font-family: '汉鼎繁隶变','HanDingFanLiBian-2','HanDingFanLiBian';
 
 		@media #{$medium} {
 			@include font-rem(30);
