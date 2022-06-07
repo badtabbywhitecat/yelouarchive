@@ -81,6 +81,9 @@ body {
 		@include font-rem(18);
 		text-transform: uppercase;
 		color: lighten($base-color,40);
+		font-weight: 100;
+		line-height: 2;
+		font-size: larger
 
 		@media #{$medium} {
 			@include font-rem(24);
