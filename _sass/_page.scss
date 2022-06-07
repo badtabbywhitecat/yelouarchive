@@ -105,13 +105,15 @@ body {
 		margin: 10px 60px;
 		color: #fff;
 		text-shadow: 1px 1px 4px rgba($base-color,0.6);
+		max-width: 16%;
+		text-align: center;
 
 		a {
 			color: #fff;
 		}
 
 		img {
-			max-height: 15%;
+			max-height: 16%;
 		}
 	}
 
