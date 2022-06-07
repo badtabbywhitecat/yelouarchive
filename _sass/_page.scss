@@ -65,7 +65,7 @@ body {
 		font-weight: 500;
 		font-size: -webkit-xxx-large;
 		color: lighten($base-color,20);
-		font-family: '汉鼎繁隶变','HanDingFanLiBian-2','HanDingFanLiBian';
+		font-family: '汉鼎繁隶变','HanDingFanLiBian-2','HanDingFanLiBian','QIJIC','zkthzykt','字酷堂黄楷体';
 
 		@media #{$medium} {
 			@include font-rem(30);
