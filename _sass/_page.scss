@@ -65,15 +65,13 @@ body {
 		font-weight: 500;
 		font-size: 5rem;
 		color: lighten($base-color,20);
-		font-family: '汉鼎繁隶变','HanDingFanLiBian-2','HanDingFanLiBian','QIJIC','zkthzykt','字酷堂黄楷体';
+		font-family: '汉鼎繁隶变','HanDingFanLiBian-2','HanDingFanLiBian';
 
 		@media #{$medium} {
-			@include font-rem(30);
 			font-size: 5rem;
 		}
 
 		@media #{$large} {
-			@include font-rem(50);
 			font-size: 5rem;
 		}
 	}
@@ -88,7 +86,6 @@ body {
 		font-size: larger
 
 		@media #{$medium} {
-			@include font-rem(24);
 			font-weight: 100;
 		}
 	}
