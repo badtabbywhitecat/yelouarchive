@@ -17,6 +17,8 @@ image:
     {% if post.image.feature %}
       <div class="entry-image-index">
         <div id="particle-div"></div>
+        <div id="particles-js"></div>
+        <script src="particles.js"></script>
         <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}"><img src="{{ site.url }}/images/{{ post.image.feature }}" alt="{{ post.title }}"></a>
       </div><!-- /.entry-image -->
     {% endif %}

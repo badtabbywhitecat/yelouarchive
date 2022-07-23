@@ -1,5 +1,5 @@
-title:            坟头仓库
-description:      一个普通的存档点.
+title:            阅读
+description:      没有实体的精神故乡
 disqus_shortname: 
 reading_time:     true
 excerpt_separator:  '<!-- more -->'
@@ -9,21 +9,21 @@ url: https://badtabbywhitecat.github.io/yelouarchive/
 
 # Owner/author information
 owner:
-  name:           坟头仓库
+  name:           阅读
   avatar:         BANNER.png
-  bio:            "普通的坟头和普通的仓库"
-  email:          moqianxi9@163.com
+  bio:            "没有实体的精神故乡"
+  email:          yuchipozhen@gmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:    
-  lofter: moxi497660
+  lofter: 
   github:         
   stackexchange:  
   linkedin:       
   instagram:      
   flickr:         
   tumblr:   
-  AO3: BadTabbyWhiteCat      
+  AO3:      
   # google plus id, include the '+', eg +mmistakes
   google_plus:
 
