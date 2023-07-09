@@ -7,6 +7,6 @@ image:
   background: yellowpaper.png
 ---
 
-<p align="center"><img src="/public/images/sleepingcats.jpg" width="75%"></p>
+<p align="center"><img src="https://storage.gra.cloud.ovh.net/v1/AUTH_011f6e315d3744d498d93f6fa0d9b5ee/qotoorg/media_attachments/files/110/681/691/381/488/417/original/13bf2818c71d89de.jpg" width="75%"></p>
 
 
